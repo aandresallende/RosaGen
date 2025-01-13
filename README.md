@@ -1,1 +1,2 @@
 RosaGen is a generator of random numbers and characters as required for use in secure passwords, the random information is generated in hexadecimal, and can be simple numbers or non-printable characters written in hexadecimal. It is called RosaGen because it was developed in Rosa Linux.
+It is written in Python using the modules that come by default in the interpreter, they have also been compiled into a single executable for Windows and Linux
